@@ -1,5 +1,6 @@
-package com.mysonge.mysong.authlogin.oauth.token;
+package com.mysonge.mysong.oauthlogin.oauth.token;
 
+import com.mysonge.mysong.oauthlogin.oauth.exception.TokenValidFailedException;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.security.Keys;
 import lombok.extern.slf4j.Slf4j;

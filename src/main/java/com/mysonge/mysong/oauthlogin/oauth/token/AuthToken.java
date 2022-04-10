@@ -1,4 +1,4 @@
-package com.mysonge.mysong.authlogin.oauth.token;
+package com.mysonge.mysong.oauthlogin.oauth.token;
 
 import io.jsonwebtoken.*;
 import lombok.Getter;
